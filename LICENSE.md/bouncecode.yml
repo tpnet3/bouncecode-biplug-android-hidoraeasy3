@@ -1,0 +1,8 @@
+name: bouncecode-biplug-android-hidoraeasy3
+
+information:
+    title: bouncecode-biplug-android-hidoraeasy3
+
+project:
+    run:
+        - echo "exit 0"
