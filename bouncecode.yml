@@ -4,5 +4,7 @@ information:
     title: bouncecode-biplug-android-hidoraeasy3
 
 project:
+    active:
+        - Scene1.java
     run:
         - echo "exit 0"
